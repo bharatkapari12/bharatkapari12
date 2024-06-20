@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **bharatkaparikumar@gmail.com**
 
-- <p align="left"> <a href="https://www.instagram.com/bharat_kapari/" target="blank"><img src="https://img.shields.io/twitter/follow/bharatkapari?logo=twitter&style=for-the-badge" alt="bharat_kapari" /></a> </p>
+<!-- <p align="left"> <a href="https://www.instagram.com/bharat_kapari/" target="blank"><img src="https://img.shields.io/twitter/follow/bharatkapari?logo=twitter&style=for-the-badge" alt="bharat_kapari" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
