@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatkapari12&label=Profile%20views&color=0e75b6&style=flat" alt="bharatkapari12" /> </p>
 
- - 🌱 I’m currently learning **Django**
+ - 🌱 I’m currently learning **Django, React JS**
 
 - 📫 How to reach me: **bharatkaparikumar@gmail.com**
 
